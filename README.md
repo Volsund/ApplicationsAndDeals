@@ -6,8 +6,9 @@ Single page app for handling new deal applications.
 
 1. Run ``` composer install ``` to generate depedencies in vendor folder
 
-2. Change database values in app/Core/Database.php
+2. npm install bootstrap
 
+3. Change database values in app/Core/Database.php
 
 ![Database.php](https://i.imgur.com/NIuxn6H.jpg)
 
