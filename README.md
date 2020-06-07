@@ -6,14 +6,14 @@ Single page app for handling new deal applications.
 
 1. Run ``` composer install ``` to generate depedencies in vendor folder
 
-2. npm install bootstrap
+2. Run npm install bootstrap
 
 3. Change database values in app/Core/Database.php
 
 ![Database.php](https://i.imgur.com/NIuxn6H.jpg)
 
 ## Usage
-Amount and email is saved into database. 
+Amount and email from input form is saved into database. 
 
 Afterwards correct partner is appointed to deal entry and status set to 'ask'.
 
